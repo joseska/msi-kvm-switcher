@@ -179,6 +179,10 @@ No hacen falta para el uso diario.
 - [`kvmtiming.cs`](kvmtiming.cs): envía un cambio de entrada (o solo observa con `-1`) y anota con milisegundos cuándo desaparecen el vídeo (DDC) y el USB. Uso: `kvmtiming.exe <0-3|-1> <segundos>`.
 - [`kvmwatch.cs`](kvmwatch.cs): registrador (`kvmwatch.log`) del USB del monitor, la entrada de teclado/ratón, el estado de la pantalla de Windows y DDC.
 
+## Licencia
+
+[MIT](LICENSE).
+
 ## Aviso legal
 
 Este proyecto no está afiliado ni respaldado por MSI. "MSI" y "Productivity Intelligence" son marcas de sus propietarios. El protocolo se obtuvo observando la comunicación de la app oficial con un monitor propio; este repositorio no contiene código ni binarios de MSI. Se ofrece tal cual, sin garantía de ningún tipo.
