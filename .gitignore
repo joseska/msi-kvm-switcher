@@ -1,0 +1,5 @@
+# Binarios compilados (se generan con csc.exe, ver README)
+*.exe
+
+# Registros de diagnóstico
+*.log
