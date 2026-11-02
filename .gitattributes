@@ -1,0 +1,4 @@
+# Normaliza saltos de linea en el repositorio (LF) para que el script de Linux no se rompa al clonar en Windows.
+* text=auto
+*.py text eol=lf
+*.ico binary
